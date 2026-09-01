@@ -1,4 +1,4 @@
-### Olá, eu sou o Fernando! 👋
+[![Typing SVG](https://demolab.com)](https://git.io)
 
 ### 🚀 Estudante de Desenvolvimento de Sistemas
 
