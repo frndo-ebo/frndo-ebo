@@ -10,7 +10,11 @@ Atualmente cursando o **2º Módulo na ETEC Albert Einstein**, focado em aprende
 
 ### 📊 Estatísticas do GitHub
 
-[![Top Linguagens](https://shion.dev)](https://github.com)
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Lzr-Mafrine&theme=github_dark" width="450"/>
+
+</div>
 
 
 ### 📫 Vamos nos conectar?
