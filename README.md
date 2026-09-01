@@ -1,4 +1,8 @@
-[![Typing SVG](https://shion.dev)](https://github.com/DenverCoder1/readme-typing-svg)
+<h1 align="center">Olá, eu sou o Fernando 👋</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Desenvolvedor+Mobile;Aprendendo+Flutter+%F0%9F%9A%80;Sempre+codando+algo+novo!" alt="Typing SVG" />
+</p>
 
 ### 🚀 Estudante de Desenvolvimento de Sistemas
 
