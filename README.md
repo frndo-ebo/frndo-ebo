@@ -10,7 +10,8 @@ Atualmente cursando o **2º Módulo na ETEC Albert Einstein**, focado em aprende
 
 ### 📊 Estatísticas do GitHub
 
-[![Top Linguagens](https://vercel.app)](https://github.com)
+[![Top Linguagens](https://shion.dev)](https://github.com)
+
 
 ### 📫 Vamos nos conectar?
 
