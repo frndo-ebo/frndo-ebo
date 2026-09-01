@@ -1,4 +1,4 @@
-[![Typing SVG](https://demolab.com)](https://git.io)
+[![Typing SVG](https://shion.dev)](https://github.com/DenverCoder1/readme-typing-svg)
 
 ### 🚀 Estudante de Desenvolvimento de Sistemas
 
