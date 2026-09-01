@@ -6,7 +6,7 @@ Atualmente cursando o **2º Módulo na ETEC Albert Einstein**, focado em aprende
 
 ### 🛠️ Minhas Tecnologias & Ferramentas
 
-[![Minhas Habilidades](https://skillicons.dev/icons?i=js,html,css,azure,mysql,mongodb,linkedin,github,flutter,vscode)](https://skillicons.dev)
+[![Minhas Habilidades](https://skillicons.dev/icons?i=js,html,css,azure,mysql,mongodb,linkedin,github,flutter,vscode,py)](https://skillicons.dev)
 
 ### 📊 Estatísticas do GitHub
 
