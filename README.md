@@ -6,11 +6,11 @@ Atualmente cursando o **2º Módulo na ETEC Albert Einstein**, focado em aprende
 
 ### 🛠️ Minhas Tecnologias & Ferramentas
 
-*(Dica: Substitua ou remova os ícones abaixo de acordo com o que você já estudou na ETEC!)* 
-
+(https://skillicons.dev/icons?i=js,html,css,azure,mysql,mongodb,linkedin,github,flutter,vscode)](https://skillicons.dev)
 ### 📊 Estatísticas do GitHub
 
-*(O código abaixo puxa seus dados automaticamente quando você colocar no seu perfil)* 
+[![Top Linguagens](https://vercel.app)](https://github.com)
+
 
 ### 📫 Vamos nos conectar?
 
